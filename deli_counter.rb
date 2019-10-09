@@ -2,7 +2,7 @@
 def line(array)
   new_array = []
   counter = 1
-  if counter < 1
+ array.each do |
     puts "The line is currently empty."
   end
 end
